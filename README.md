@@ -9,6 +9,6 @@ single cell 500mah lipo, 802035
 
 3 buttons 8x8x5mm and 1 6x6x6mm.
 
-
+Printed with ninjaflex.
 
 
